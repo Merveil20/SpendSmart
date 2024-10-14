@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|c:\\users\\user\\desktop\\pro\\spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|c:\\users\\user\\desktop\\pro\\spendsmart\\views\\home\\depenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|solutionrelative:views\\home\\depenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|c:\\users\\user\\desktop\\pro\\spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|c:\\users\\user\\desktop\\pro\\spendsmart\\views\\home\\createeditdepense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|solutionrelative:views\\home\\createeditdepense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|c:\\users\\user\\desktop\\pro\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|c:\\users\\user\\desktop\\pro\\spendsmart\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|solutionrelative:models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|c:\\users\\user\\desktop\\pro\\spendsmart\\models\\depensesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488932D9-493C-44BD-92D6-ED60EADC0073}|SpendSmart.csproj|solutionrelative:models\\depensesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAlwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:57:25.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpendSmartDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\SpendSmartDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "RelativeToolTip": "Models\\SpendSmartDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:48:13.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepensesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Models\\DepensesDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\DepensesDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Models\\DepensesDbContext.cs",
+              "RelativeToolTip": "Models\\DepensesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:47:42.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:16:38.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateEditDepense.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Views\\Home\\CreateEditDepense.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreateEditDepense.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Views\\Home\\CreateEditDepense.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreateEditDepense.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T10:26:30.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Depenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Views\\Home\\Depenses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Depenses.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Views\\Home\\Depenses.cshtml",
+              "RelativeToolTip": "Views\\Home\\Depenses.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T10:23:00.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Pro\\SpendSmart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T10:21:24.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
